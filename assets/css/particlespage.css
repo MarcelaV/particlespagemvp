@@ -40,7 +40,7 @@ header .menu{
 header .logo{
 	background: rgba(0,0,0,.5);
 	float: left;
-	font-size: 31px;
+	font-size: 30px;
 	line-height: 80px;
 	color: white;
 }
@@ -82,12 +82,9 @@ header nav ul li a:hover{
 .texto{
 	color: #fff;
 	position: relative;
-	margin-top: 8em;
-	margin-left: 40em;
-	margin-bottom: 8em;
+	padding: 100px 0;
+	text-align: center;
 	font-weight: 400;
-	display: inline;
-	/*text-align: center;*/
 }
 
 .texto h2 .texto p{
