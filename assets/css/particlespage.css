@@ -87,7 +87,7 @@ header nav ul li a:hover{
 	margin-bottom: 8em;
 	font-weight: 400;
 	display: inline;
-	text-align: center;
+	/*text-align: center;*/
 }
 
 .texto h2 .texto p{
