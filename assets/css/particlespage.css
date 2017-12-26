@@ -82,9 +82,11 @@ header nav ul li a:hover{
 .texto{
 	color: #fff;
 	position: relative;
-	padding: 100px 0;
-	text-align: center;
+	margin-top: 8em;
+	margin-left: 40em;
+	margin-bottom: 8em;
 	font-weight: 400;
+	display: inline-block;
 }
 
 .texto h2 .texto p{
